@@ -1,1 +1,2 @@
 Added from master.
+Added from branch1
